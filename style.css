@@ -1,7 +1,7 @@
 body{ 
     background-color: bisque;
 }
-imagem-principal{
+#imagem-principal{
     width: 30%;
     height: 30%;
     margin-left: 40%;
