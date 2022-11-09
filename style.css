@@ -1,8 +1,6 @@
 body{ 
     background-color: bisque;
 }
-#bolobanana.jpg.jpg{
-    width: 30%;
-    height: 30%;
-    margin-left: 40%;
+#bolobanana {
+    width: 50%;
 }
